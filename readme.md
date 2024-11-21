@@ -13,6 +13,12 @@ Application permettant de gérer des notes par catégories
 - List des notes par catégories
 - List des notes par utilisateur
 
+## DIAGRAMME 
+
+Les diagrammes ont été réalisés avec Draw.io et 
+sont placé a la racine du projet dans le 
+fichier .drawio
+
 ## Installation 
 
 Projet gérer via docker
