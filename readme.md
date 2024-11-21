@@ -21,3 +21,7 @@ se mettre à la racine du projet et lancer
 ```bash
     docker compose up --build
 ```
+
+le projet se lance sur localhost:8080
+
+le serveur est configuré par defaut pour se relancer à chaque changement dans le code
